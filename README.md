@@ -1,7 +1,7 @@
 # StudyNotion
 ## Live 
 https://study-notion-frontend-wheat.vercel.app/ \
-otp mail will be in your spam section
+otp for verification can be in your spam section 
 ## Installation
 
 1. Clone the repository: `https://github.com/VISHNU4546/StudyNotion.git`
